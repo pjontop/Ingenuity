@@ -23,14 +23,14 @@ It uses QMK with via for everything
 - and the other keys are routed to similar rgb controls
 - there are 2 layers one of which is the rgb control and the other is function keys (i plan to add more later on)
 ## BOM
-8x Cherry MX Switches
-8x DSA Keycaps
-4x M2x8 screws (i'll get them from home depot)
-9x Diodes
-1x EC11 Rotary Encoder
-9x LEDs
-1x XIAO RP2040
-1x Rotary Encoder Keycap cover
+- 8x Cherry MX Switches
+- 8x DSA Keycaps
+- 4x M2x8 screws (i'll get them from home depot)
+- 9x Diodes
+- 1x EC11 Rotary Encoder
+- 9x LEDs
+- 1x XIAO RP2040
+- 1x Rotary Encoder Keycap cover
 ## other stuff
 btw this took me like months (from v1 to v3), i went through like 17 iterations before this, thx hc!!
 ## fit together
