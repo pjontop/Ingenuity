@@ -26,7 +26,6 @@ It uses QMK with via for everything
 8x Cherry MX Switches
 8x DSA Keycaps
 4x M2x8 screws (i'll get them from home depot)
-<img src=/assets/fittogether.png/>
 9x Diodes
 1x EC11 Rotary Encoder
 9x LEDs
@@ -34,3 +33,5 @@ It uses QMK with via for everything
 1x Rotary Encoder Keycap cover
 ## other stuff
 btw this took me like months (from v1 to v3), i went through like 17 iterations before this, thx hc!!
+## fit together
+<img src=/assets/fittogether.png/>
