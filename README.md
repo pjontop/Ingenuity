@@ -13,7 +13,7 @@ Made in onshape, left fusion because it kept on crashing on my mac.
 ## PCB
 This is my PCB. It was made in KiCad and the silkscreen was made in figma.
 Schematic
-!(/assets/schematic.png)
+<img src=/assets/schematic.png/>
 !(/assets/pcb.png)
 The routing was really hard to get used to, but in the end (after like 100 redos), I made it.
 ## Firmware
